@@ -1,0 +1,24 @@
+# REAL DATASET
+/Model/data/AFFECT_NET_8_LABELS/full_data
+/Model/data/AFFECT_NET_8_LABELS/AffectNet8Labels_Documentation.pdf
+/Model/data/Celeb-A
+/Model/data/lfw
+
+# CHECKPOINTS
+**/.ipynb_checkpoints/
+
+# PY CACHE
+**/__pycache__
+
+# .IDEA
+**/.idea
+
+# VENV
+**/venv
+
+# PRE TRAINED MODELS
+**/pretrained_weights
+
+# USELESS SRC - OUT
+/Model/training_methods/training_with_checkpoints.py
+/Model/runs/run3/checkpoints

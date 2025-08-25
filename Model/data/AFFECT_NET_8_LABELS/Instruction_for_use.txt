@@ -1,0 +1,11 @@
+After various transformations and tests, I noticed that os.listdir() creates unbalanced lists that don't match when creating the dataset.
+So, just remove the "_exp" (or whatever label the files have) after the file number.
+
+EX:
+
+1_exp.npy --> 1.npy
+2_exp.npy --> 2.npy
+.
+.
+.
+.
