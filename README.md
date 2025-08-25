@@ -8,7 +8,7 @@ Advisor: Prof. Andrea Bonarini — Academic year 2022/2023
 
 ## 📖 Overview
 
-This thesis explores the use of **attention mechanisms** and **Vision Transformers (ViTs)** for **Facial Emotion Recognition (FER)** in natural settings.  
+This thesis explores the use of **Attention Mechanisms** and **Vision Transformers (ViTs)** for **Facial Emotion Recognition (FER)** in natural settings.  
 The research investigates state-of-the-art architectures (ViT, Swin, Poster V2, DINO) and proposes a **Two-Stream model** that processes landmark-based and feature-based inputs in parallel to improve recognition accuracy.
 
 ---
